@@ -33,10 +33,10 @@ I will soon be publishing my **Capstone Project**, which is the culmination of m
 ![SQL Server Express](https://img.shields.io/badge/SQL_Server_Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
 
+**[Here](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE) are my bootcamp projects**
 
 ## Contact
 
 - **Email**: [fla.converso@gmail.com](mailto:fla.converso@gmail.com)
 - **LinkedIn**: /
-
 
