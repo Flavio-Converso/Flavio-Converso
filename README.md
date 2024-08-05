@@ -42,3 +42,7 @@
 
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <br/> bigboom4
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Flavio-Converso/Flavio-Converso/output/snake.svg" alt="Snake animation" />
+</div>
