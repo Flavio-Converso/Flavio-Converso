@@ -4,6 +4,8 @@
 
 🎯 I will soon be publishing my **Capstone Project**, which is the culmination of my learning journey, showcasing the skills and knowledge I have acquired throughout the bootcamp.
 <br/><br/>
+<div align="center">
+  
 ## 📚 What am I learning?
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,9 +33,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![SQL Server Express](https://img.shields.io/badge/SQL_Server_Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)<br/>
+</div>
 
-**⚡[Here](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE) are my bootcamp projects**
+**⚡[My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**
 <br/><br/>
+<div align="center">
+  
 ## 📫 How to reach me
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <br/>   /
@@ -43,6 +48,6 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <br/> bigboom4
 
 
-<div align="center">
+
   <img src="https://raw.githubusercontent.com/Flavio-Converso/Flavio-Converso/output/snake.svg" alt="Snake animation" />
 </div>
