@@ -1,12 +1,16 @@
 ![Profile Banner](https://github.com/Flavio-Converso/Flavio-Converso/blob/b1095e6ef5aee98fbc82fe399733a94d35bc1e9c/github-header-image%20(1).png)
 
-👋 Welcome to my GitHub profile! I'm a **24-year-old Junior Developer** from Italy, Rome. I am currently finishing a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
+👋 Welcome to my GitHub profile! 
+
+🚶‍♂️ I'm a **24-year-old Junior Developer** from Italy, Rome.
+
+🌱 I am currently finishing a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
 
 🎯 I will soon be publishing my **Capstone Project**, which is the culmination of my learning journey, showcasing the skills and knowledge I have acquired throughout the bootcamp.
 <br/><br/>
   
 ## 📚 What am I learning?
-### Frontend
+### 🖥 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -16,7 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Backend
+### ⚙ Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
@@ -33,8 +37,9 @@
 ![SQL Server Express](https://img.shields.io/badge/SQL_Server_Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)<br/>
 </div>
+<br/>
 
-**⚡[My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**
+**🔍 [My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**
 <br/><br/>
 
   
