@@ -4,7 +4,6 @@
 
 🎯 I will soon be publishing my **Capstone Project**, which is the culmination of my learning journey, showcasing the skills and knowledge I have acquired throughout the bootcamp.
 <br/><br/>
-<div align="center">
   
 ## 📚 What am I learning?
 ### Frontend
@@ -37,7 +36,7 @@
 
 **⚡[My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**
 <br/><br/>
-<div align="center">
+
   
 ## 📫 How to reach me
 
@@ -48,6 +47,6 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <br/> bigboom4
 
 
-
+<div align="center">
   <img src="https://raw.githubusercontent.com/Flavio-Converso/Flavio-Converso/output/snake.svg" alt="Snake animation" />
 </div>
