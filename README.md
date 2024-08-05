@@ -33,10 +33,7 @@ I will soon be publishing my **Capstone Project**, which is the culmination of m
 ![SQL Server Express](https://img.shields.io/badge/SQL_Server_Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Converso&layout=compact&theme=radical)
 
-
- 
 ## Contact
 
 - **Email**: [fla.converso@gmail.com](mailto:fla.converso@gmail.com)
