@@ -2,9 +2,9 @@
 
 👋 Welcome to my GitHub profile! 
 
-🚶‍♂️ I'm a **24-year-old Junior Developer** from Italy, Rome.
+🚶‍♂️ I'm a **24-year-old Junior Developer** from Rome, Italy.
 
-🌱 I am currently finishing a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
+🌱 I am currently completing a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
 
 🎯 I will soon be publishing my **Capstone Project**, which is the culmination of my learning journey, showcasing the skills and knowledge I have acquired throughout the bootcamp.
 <br/><br/>
@@ -32,6 +32,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![SQL Server Express](https://img.shields.io/badge/SQL_Server_Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
