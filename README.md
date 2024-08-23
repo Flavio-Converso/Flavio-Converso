@@ -40,7 +40,7 @@
 </div>
 <br/>
 
-**🔍 [My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**
+**🔍 [My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**<br/>
 **🔍 [Capstone Project](https://github.com/Flavio-Converso/capstone-project)**
 <br/><br/>
 
