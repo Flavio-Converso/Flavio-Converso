@@ -6,7 +6,7 @@
 
 🌱 I am currently completing a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
 
-🎯 I will soon be publishing my **Capstone Project**, which is the culmination of my learning journey, showcasing the skills and knowledge I have acquired throughout the bootcamp.
+🎯 I will soon be publishing my **[Capstone Project](https://github.com/Flavio-Converso/capstone-project)**, which is the culmination of my learning journey, showcasing the skills and knowledge I have acquired throughout the bootcamp.
 <br/><br/>
   
 ## 📚 What am I learning?
@@ -41,6 +41,7 @@
 <br/>
 
 **🔍 [My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**
+**🔍 [Capstone Project](https://github.com/Flavio-Converso/capstone-project)**
 <br/><br/>
 
   
