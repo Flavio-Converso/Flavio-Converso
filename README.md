@@ -4,12 +4,12 @@
 
 🚶‍♂️ I'm a **24-year-old Junior Developer** from Rome, Italy.
 
-🌱 I am currently completing a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
+🌱 I have recently completed a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
 
-🎯 I will soon be publishing my **[Capstone Project](https://github.com/Flavio-Converso/capstone-project)**, which is the culmination of my learning journey, showcasing the skills and knowledge I have acquired throughout the bootcamp.
+🎯 My **[Capstone Project](https://github.com/Flavio-Converso/capstone-project)** is now complete and visible in the linked repository. It showcases the skills and knowledge I acquired throughout the bootcamp.
 <br/><br/>
   
-## 📚 What am I learning?
+## 📚 What I Have Learned
 ### 🖥 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,11 +40,13 @@
 </div>
 <br/>
 
-**🔍 [My bootcamp projects](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**<br/>
-**🔍 [Capstone Project](https://github.com/Flavio-Converso/capstone-project)**
+**🔍 [My bootcamp journey](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**<br/>
 <br/><br/>
 
-  
+## 🎯 Future Goals
+I am dedicated to mastering .NET and Entity Framework. My goal is to gain a thorough understanding of these technologies, exploring their advanced features and best practices. By doing so, I aim to enhance my skills as a developer and build more robust, efficient applications.
+<br/><br/>
+
 ## 📫 How to reach me
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <br/> [Flavio Converso](https://www.linkedin.com/in/flavioconverso-fs/)
