@@ -1,6 +1,5 @@
-### [🏴 ENGLISH VERSION](README.en.md)
 ![Profile Banner](https://github.com/Flavio-Converso/Flavio-Converso/blob/b1095e6ef5aee98fbc82fe399733a94d35bc1e9c/github-header-image%20(1).png)
-
+### [🏴 ENGLISH VERSION](README.en.md)
 👋 Welcome to my GitHub profile! 
 
 🚶‍♂️ I'm a **24-year-old Junior Developer** from Rome, Italy.
