@@ -1,15 +1,15 @@
 ![Profile Banner](https://github.com/Flavio-Converso/Flavio-Converso/blob/b1095e6ef5aee98fbc82fe399733a94d35bc1e9c/github-header-image%20(1).png)
 ### [🏴 ENGLISH VERSION](README.en.md)
-👋 Welcome to my GitHub profile! 
+👋 Benvenuto nel mio profilo GitHub!
 
-🚶‍♂️ I'm a **24-year-old Junior Developer** from Rome, Italy.
+🚶‍♂️ Vengo da Roma e sono uno sviluppatore junior di 24 anni.
 
-🌱 I have recently completed a 6-month bootcamp with **[EPICODE](https://epicode.com/it/)**.
+🌱 Ho da poco completato un bootcamp di 6 mesi con **[EPICODE](https://epicode.com/it/)**.
 
-🎯 My **[Capstone Project](https://github.com/Flavio-Converso/capstone-project)** is now complete and visible in the linked repository. It showcases the skills and knowledge I acquired throughout the bootcamp.
+🎯 Il mio **[Capstone Project](https://github.com/Flavio-Converso/capstone-project)** è ora completo e visibile nel repository linkato. Mostra le competenze e le conoscenze che ho acquisito durante il bootcamp.
 <br/><br/>
   
-## 📚 What I Have Learned
+## 📚 Cosa Ho Imparato
 ### 🖥 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,10 +28,9 @@
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🛠 Tools
+### 🛠 Strumenti
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -40,14 +39,14 @@
 </div>
 <br/>
 
-**🔍 [My bootcamp journey](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**<br/>
+**🔍 [Il mio percorso nel bootcamp](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**<br/>
 <br/><br/>
 
-## 🎯 Future Goals
-I am dedicated to mastering .NET and Entity Framework. My goal is to gain a thorough understanding of these technologies, exploring their advanced features and best practices. By doing so, I aim to enhance my skills as a developer and build more robust, efficient applications.
+## 🎯 Obiettivi Futuri
+Sono dedicato a padroneggiare .NET e Entity Framework. Il mio obiettivo è acquisire una comprensione approfondita di queste tecnologie, esplorando le loro funzionalità avanzate e le "best practice". In questo modo, mirerò a migliorare le mie competenze come sviluppatore e costruire applicazioni più robuste ed efficienti.
 <br/><br/>
 
-## 📫 How to reach me
+## 📫 Come contattarmi
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <br/> [Flavio Converso](https://www.linkedin.com/in/flavioconverso-fs/)
 
