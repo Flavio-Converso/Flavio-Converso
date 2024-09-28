@@ -1,5 +1,5 @@
 ![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/c46071ea-caca-411c-9ad3-26f59bd3fcfa)
-### [🏴 VERSIONE ITALIANA](README.md)
+### [<img src="https://github.com/user-attachments/assets/60d1100d-00d9-4918-8740-d4a502a5db62" alt="English Flag" width="32"/> VERSIONE ITALIANA](README.md)
 👋 Welcome to my GitHub profile! 
 
 🚶‍♂️ I'm a **24-year-old Junior Developer** from Rome, Italy.
