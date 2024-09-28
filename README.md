@@ -20,7 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### <img src="https://github.com/user-attachments/assets/9fde4ed9-165b-42a6-9e22-efa1f68e3e9a" alt="Settings Logo" width="35"/> Backend
+### <img src="https://github.com/user-attachments/assets/5130ee7b-6ecf-4d36-923b-be9a776330e2" alt="Settings Logo" width="35"/> Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
@@ -59,7 +59,3 @@ Sono dedicato a padroneggiare .NET e Entity Framework. Il mio obiettivo è acqui
 <div align="center">
   <img src="https://raw.githubusercontent.com/Flavio-Converso/Flavio-Converso/output/snake.svg" alt="Snake animation" />
 </div>
-
-
-
-
