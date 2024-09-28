@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/Flavio-Converso/Flavio-Converso/blob/b1095e6ef5aee98fbc82fe399733a94d35bc1e9c/github-header-image%20(1).png)
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/c46071ea-caca-411c-9ad3-26f59bd3fcfa)
 ### [🏴 VERSIONE ITALIANA](README.md)
 👋 Welcome to my GitHub profile! 
 
