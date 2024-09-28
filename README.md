@@ -48,11 +48,12 @@ Sono dedicato a padroneggiare .NET e Entity Framework. Il mio obiettivo è acqui
 
 ## 📫 Come contattarmi
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <br/> [Flavio Converso](https://www.linkedin.com/in/flavioconverso-fs/)
+<img src="https://github.com/user-attachments/assets/583aa1b6-78f0-4be8-982d-1fa1177c2a90" alt="Linkedin Logo" width="60"/> <br/> [Flavio Converso](https://www.linkedin.com/in/flavioconverso-fs/)
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> <br/> [fla.converso@gmail.com](mailto:fla.converso@gmail.com)
+<img src="https://github.com/user-attachments/assets/c4bbcd8f-edb2-4f79-bc70-ff74d42bdca9" alt="Gmail Logo" width="110"/> <br/> [fla.converso@gmail.com](mailto:fla.converso@gmail.com)
 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <br/> bigboom4
+<img src="https://github.com/user-attachments/assets/6c7f1a93-a26b-42d2-8cfa-c02085b742a8" alt="Discord Logo" width="60"/> <br/> bigboom4
+
 
 
 <div align="center">
