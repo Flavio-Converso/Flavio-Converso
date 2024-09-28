@@ -50,7 +50,7 @@ I am dedicated to mastering .NET and Entity Framework. My goal is to gain a thor
 
 <img src="https://github.com/user-attachments/assets/583aa1b6-78f0-4be8-982d-1fa1177c2a90" alt="Linkedin Logo" width="60"/> <br/> [Flavio Converso](https://www.linkedin.com/in/flavioconverso-fs/)
 
-<img src="https://github.com/user-attachments/assets/c4bbcd8f-edb2-4f79-bc70-ff74d42bdca9" alt="Gmail Logo" width="110"/> <br/> [fla.converso@gmail.com](mailto:fla.converso@gmail.com)
+<img src="https://github.com/user-attachments/assets/45031888-266c-4466-8932-b26696f2b449" alt="Gmail Logo" width="52"/> <br/> [fla.converso@gmail.com](mailto:fla.converso@gmail.com)
 
 <img src="https://github.com/user-attachments/assets/6c7f1a93-a26b-42d2-8cfa-c02085b742a8" alt="Discord Logo" width="60"/> <br/> bigboom4
 
