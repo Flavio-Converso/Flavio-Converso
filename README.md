@@ -39,7 +39,7 @@
 </div>
 <br/>
 
-**🔍 [Il mio percorso nel bootcamp](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**<br/>
+**🔍 [Il mio percorso con EPICODE](https://github.com/Flavio-Converso/BOOTCAMP_EPICODE)**<br/>
 <br/><br/>
 
 ## 🎯 Obiettivi Futuri
