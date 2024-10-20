@@ -1,4 +1,4 @@
-![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/5ee73198-2133-466b-a342-a300235c294a)
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/5ee73198-2133-466b-a342-a300235c294a) 
 ### [<img src="https://github.com/user-attachments/assets/5df1ea15-3ab1-461b-9bdc-0be41b4e46a3" alt="English Flag" width="32"/> ENGLISH VERSION](README.en.md)<br/><br/>
 <img src="https://github.com/user-attachments/assets/c779b05a-ce8a-462d-a2e0-2a9da75f2063" alt="Hand Logo" width="32"/> Benvenuto nel mio profilo GitHub!
 
