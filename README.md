@@ -42,6 +42,3 @@ Mi sto concentrando nel **padroneggiare .NET ed Entity Framework**, con l’obie
 - 📧 Email: [fla.converso@gmail.com](mailto:fla.converso@gmail.com)  
 - 💼 LinkedIn: [Flavio Converso](https://www.linkedin.com/in/flavioconverso-fs/)  
 - 💬 Discord: `bigboom4`
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Flavio-Converso/Flavio-Converso/output/snake.svg" alt="Snake animation" />
-</div>
