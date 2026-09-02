@@ -1,6 +1,6 @@
 # 👋 Benvenuto nel mio profilo GitHub!
 
-Ciao! Mi chiamo **Flavio Converso**, ho 25 anni e vengo da Roma. Sono uno sviluppatore **Full Stack** junior con una grande passione per la programmazione e per la crescita professionale continua.
+Ciao! Mi chiamo **Flavio Converso**, ho 26 anni e vengo da Roma. Sono uno sviluppatore **Full Stack** junior con una grande passione per la programmazione e per la crescita professionale continua.
 
 💼 Durante lo stage presso **[Progetto PA](https://www.progettopa.it/)**, mi sono occupato di:  
 - sviluppo web di un’applicazione gestionale interna (simile a un CRM) utilizzando **ASP.NET MVC, HTML, CSS (Bootstrap) e JavaScript (jQuery, AJAX)**;  
